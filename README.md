@@ -2,5 +2,5 @@
 * General use GUI with serial terminal<br/>
 * Made by Umut Avcı
 
-![image](https://github.com/Andfacto/GUI/assets/145367366/e2c83f37-29d2-476f-8318-d58952f4574b)
-![image](https://github.com/Andfacto/GUI/assets/145367366/99cb9f3f-c0c5-43cc-89a6-1e44a1d8ba9b)
+![image](https://github.com/Andfacto/GUI/assets/145367366/05accf2c-3015-4c62-a2ff-8d8a749c1b0c)
+![image2](https://github.com/Andfacto/GUI/assets/145367366/20f55531-f1cb-4e82-a95e-5757615e581c)
